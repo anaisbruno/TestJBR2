@@ -8,8 +8,8 @@ public class MonMain {
 		// TODO Auto-generated method stub
 
 		Personne p = new Personne ("toto");     
-		
-		
+
+		System.out.println("test");
 	}
 
 }
