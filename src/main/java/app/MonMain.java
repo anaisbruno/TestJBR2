@@ -2,10 +2,7 @@ package app;
 
 public class MonMain {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Personne p = new Personne ("toto");     
+	public static void main(String[] args) { 
 
 		System.out.println("test");
 	}
